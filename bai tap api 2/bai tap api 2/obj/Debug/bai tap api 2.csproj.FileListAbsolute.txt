@@ -1,0 +1,62 @@
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\bai tap api 2.dll.config
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\bai tap api 2.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\bai tap api 2.pdb
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\csc.exe
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\csc.exe.config
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\csc.rsp
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\csi.exe
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\csi.rsp
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.AppContext.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.Collections.Immutable.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.IO.FileSystem.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\System.Reflection.Metadata.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\vbc.exe
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\vbc.exe.config
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\vbc.rsp
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\VBCSCompiler.exe
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\roslyn\VBCSCompiler.exe.config
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Antlr3.Runtime.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Microsoft.Web.Infrastructure.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Newtonsoft.Json.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Net.Http.Formatting.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Helpers.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Http.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Http.WebHost.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Mvc.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Optimization.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Razor.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.Deployment.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.Razor.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\WebGrease.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Newtonsoft.Json.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Net.Http.Formatting.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Helpers.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Http.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Http.WebHost.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Mvc.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Optimization.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.Razor.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.Deployment.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\System.Web.WebPages.Razor.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Antlr3.Runtime.pdb
+E:\bài tập api 1\bai tap api 2\bai tap api 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bài tập api 1\bai tap api 2\bai tap api 2\obj\Debug\bai tap api 2.csprojAssemblyReference.cache
+E:\bài tập api 1\bai tap api 2\bai tap api 2\obj\Debug\bai tap api 2.csproj.CoreCompileInputs.cache
+E:\bài tập api 1\bai tap api 2\bai tap api 2\obj\Debug\bai tap api 2.csproj.CopyComplete
+E:\bài tập api 1\bai tap api 2\bai tap api 2\obj\Debug\bai tap api 2.dll
+E:\bài tập api 1\bai tap api 2\bai tap api 2\obj\Debug\bai tap api 2.pdb
